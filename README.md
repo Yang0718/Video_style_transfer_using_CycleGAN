@@ -23,7 +23,10 @@ ffmpeg -i video.mp4 outputfile/%1d.png
 也可以嘗試128x128，模型更容易訓練得好，轉換效果更逼真<br>
 只是因為怕用128輸出的影片畫質太差，在期末課堂demo投影出來太模糊，所以這邊才使用256<br>
 
-[成果demo](https://www.youtube.com/watch?v=7Ohd2JoBGJM)
+[Demo](https://www.youtube.com/watch?v=7Ohd2JoBGJM)<br>
+![demo](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/youtube.PNG)<br>
+
+**Training results in different epochs**<br>
 ![epoch_0](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/training_result_0.PNG)
 ![epoch_15](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/training_result_15.PNG)
 ![epoch_30](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/training_result_30.PNG)
