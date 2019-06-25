@@ -18,13 +18,15 @@ ffmpeg -i video.mp4 outputfile/%1d.png
 [我們的數據集](https://drive.google.com/open?id=1XE1Z9AK1l0s9wq5OXc5NbAgYG7YKfaS4)<br>
 [訓練好的模型h5檔](https://drive.google.com/open?id=1VdXNCqYh_d7YlUVVhOPFQuUg5iYhLMyW)
 
+## Demo
+[https://www.youtube.com/watch?v=7Ohd2JoBGJM](https://www.youtube.com/watch?v=7Ohd2JoBGJM)<br>
+
+![demo](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/youtube.PNG)<br>
+
 ## Training
 將照片都reshape至256x256，使用2080 Ti 跑30個epochs費時近3小時。<br>
 也可以嘗試128x128，模型更容易訓練得好，轉換效果更逼真<br>
 只是因為怕用128輸出的影片畫質太差，在期末課堂demo投影出來太模糊，所以這邊才使用256<br>
-
-[Demo](https://www.youtube.com/watch?v=7Ohd2JoBGJM)<br>
-![demo](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/youtube.PNG)<br>
 
 **Training results in different epochs**<br>
 ![epoch_0](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/training_result_0.PNG)
