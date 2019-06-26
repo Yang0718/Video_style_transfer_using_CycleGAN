@@ -36,7 +36,10 @@ ffmpeg -i video.mp4 outputfile/%1d.png
 ![epoch_15](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/figures/training_result_15.PNG)
 ![epoch_30](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/figures/training_result_30.PNG)
 
-**Interesting fake images**
-![interesting](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/figures/interesting.png)
+## Interesting fake images<br>
+巨量的香蕉與麥克風<br>
+女生逐漸變成男生的藍色(風格轉換到一半)<br>
+憑空多一根香蕉
+![interesting](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/figures/interesting.PNG)
 
 
