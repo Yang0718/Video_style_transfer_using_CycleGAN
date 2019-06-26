@@ -39,7 +39,7 @@ ffmpeg -i video.mp4 outputfile/%1d.png
 ## Interesting fake images<br>
 巨量的香蕉與麥克風<br>
 女生逐漸變成男生的藍色(風格轉換到一半)<br>
-憑空多一根香蕉
+憑空多一根香蕉<br>
 ![interesting](https://github.com/Yang0718/Video_style_transfer_using_CycleGAN/raw/master/figures/interesting.PNG)
 
 
