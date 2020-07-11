@@ -1,6 +1,5 @@
 # <center>Video Style Transfer<center>
-這學期在交大電信所修「深度學習」，將期末專題的成果整理，供大家參考。<br>
-(題外話，這堂課很棒，簡老師教得很好)<br>
+這學期在交大電信所修「深度學習」(好課，推)，將期末專題的成果整理，供有興趣的人參考。<br>
 
 主題是影片的風格轉換，架構CycleGAN網路上很多介紹，不再贅述。<br>
 模型架構的部分則取自此github:https://github.com/tjwei/GANotebooks <br>
